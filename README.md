@@ -4,5 +4,5 @@ This is  my first repo!
 
 
 
-I just want to have fun!
+just want to have fun!
 
